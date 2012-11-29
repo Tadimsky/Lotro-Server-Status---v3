@@ -3,7 +3,7 @@ var express = require('express');
 var app = express.createServer(express.logger());
 
 app.get('/', function(request, response) {
-  response.send('Hello, I am a Norboglir!');
+  response.send('Hello, I am a Norboglir!' + '<img src="norboglir.jpg"></img>');
 });
 
 var port = process.env.PORT || 5000;
