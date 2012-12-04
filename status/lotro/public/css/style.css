@@ -1,0 +1,15 @@
+.status {
+	text-align: center;
+}
+
+.server {
+	margin-right: 5px;
+}
+
+.servername {
+	vertical-align: middle !important;
+}
+
+#serverlist {
+	margin-bottom: 0px !important;
+}

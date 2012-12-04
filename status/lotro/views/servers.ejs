@@ -1,0 +1,20 @@
+<% layout('boilerplate') -%>
+<div class="row-fluid">
+	<div class="span4 offset4 well">	
+	<div class="row-fluid">
+		<h5 class="span10">Server</h5>
+		<h5 class="span2"><a href="#" id="statusinfo" rel="tooltip" data-original-title="first tooltip">Status</a></h5>			
+		 <script type="text/javascript">
+		 	$("#statusinfo").tooltip();
+		 </script>
+	</div>
+	<i class="icon-search"></i>
+	<div class="row-fluid">
+		<% for (var i = 0; i < servers.length; i++) { %>
+		<div class="row-fluid">
+			<span class="span10"><%= servers[i].name %></span>
+			<span class="span2"><i class="<%= servers[i].status %> icon-white>"</i></span>
+		</div>
+		<% } %>
+	</div>
+</div>

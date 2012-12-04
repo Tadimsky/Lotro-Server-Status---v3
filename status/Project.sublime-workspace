@@ -1,0 +1,873 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"bus",
+				"business"
+			],
+			[
+				"gop",
+				"gopinions"
+			],
+			[
+				"cust",
+				"custe"
+			],
+			[
+				"reward",
+				"rewardid"
+			],
+			[
+				"_PO",
+				"_POST  (variable)"
+			],
+			[
+				"sur",
+				"survey_id"
+			],
+			[
+				"surv",
+				"survey_model"
+			],
+			[
+				"quest",
+				"question_id"
+			],
+			[
+				"ques",
+				"question_text"
+			],
+			[
+				"alert",
+				"alertinfo"
+			],
+			[
+				"s",
+				"surveys"
+			],
+			[
+				"resu",
+				"result"
+			],
+			[
+				"from",
+				"from_business_id"
+			],
+			[
+				"mess",
+				"message"
+			],
+			[
+				"from_",
+				"from_business_id"
+			],
+			[
+				"que",
+				"question_id"
+			],
+			[
+				"result",
+				"result_array"
+			],
+			[
+				"sql",
+				"sqlre"
+			],
+			[
+				"activ",
+				"activated"
+			],
+			[
+				"al",
+				"alertinfo"
+			],
+			[
+				"aler",
+				"alert_model"
+			],
+			[
+				"res",
+				"result_array"
+			],
+			[
+				"all",
+				"allalerts"
+			],
+			[
+				"if",
+				"if?	$… = ( … ) ? … : …"
+			],
+			[
+				"a",
+				"alertobj"
+			],
+			[
+				"question",
+				"question_id"
+			],
+			[
+				"busi",
+				"business_id"
+			],
+			[
+				"busines",
+				"business_id"
+			],
+			[
+				"bu",
+				"business_id"
+			],
+			[
+				"getGop",
+				"getGopinionRating"
+			],
+			[
+				"getG",
+				"getGopinionRating"
+			],
+			[
+				"O_A",
+				"O_APPEND	macro"
+			],
+			[
+				"O_S",
+				"O_SYNC	macro"
+			],
+			[
+				"STD",
+				"STDERR_FILENO	macro"
+			],
+			[
+				"clos",
+				"close()	int"
+			],
+			[
+				"print",
+				"print_job()	void"
+			],
+			[
+				"ar",
+				"argv	char **"
+			],
+			[
+				"mys",
+				"mystdout	int"
+			],
+			[
+				"MAX",
+				"MAX_LEN_FILENAME	macro"
+			],
+			[
+				"getp",
+				"getpgid()	pid_t"
+			],
+			[
+				"IN",
+				"INPUT_FD	macro"
+			],
+			[
+				"myst",
+				"mystdin	int"
+			],
+			[
+				"my",
+				"mystdin	int"
+			],
+			[
+				"ST",
+				"STDERR_FILENO	macro"
+			],
+			[
+				"dup",
+				"dup2()	int"
+			],
+			[
+				"job",
+				"jobnums	int[]"
+			],
+			[
+				"pri",
+				"printf	printf …"
+			],
+			[
+				"proces",
+				"process_t	typedef"
+			],
+			[
+				"proce",
+				"process_t	typedef"
+			],
+			[
+				"jo",
+				"jobnums	int [21]"
+			],
+			[
+				"Max",
+				"MAX_JOBS	macro"
+			],
+			[
+				"MAX_S",
+				"MAX_JOBS	macro"
+			],
+			[
+				"p",
+				"pgid	pid_t"
+			],
+			[
+				"pgi",
+				"pgid"
+			],
+			[
+				"get",
+				"getnextpgid"
+			],
+			[
+				"fre",
+				"free_job"
+			],
+			[
+				"the",
+				"thejob"
+			],
+			[
+				"run",
+				"runinforeground"
+			],
+			[
+				"job_",
+				"job_is_stopped"
+			],
+			[
+				"last",
+				"lastinfg"
+			],
+			[
+				"runin",
+				"runinforeground"
+			],
+			[
+				"setp",
+				"setprocessstatus"
+			],
+			[
+				"pr",
+				"printf	printf …"
+			],
+			[
+				"ex",
+				"exit"
+			],
+			[
+				"pg",
+				"pgid"
+			],
+			[
+				"wait",
+				"waitforjob"
+			],
+			[
+				"stat",
+				"status"
+			],
+			[
+				"pid",
+				"pid"
+			],
+			[
+				"proc",
+				"process_t"
+			],
+			[
+				"first",
+				"first_job"
+			],
+			[
+				"cont",
+				"continue_job"
+			],
+			[
+				"to",
+				"tomove"
+			],
+			[
+				"she",
+				"shell_pgid"
+			],
+			[
+				"arg",
+				"argc"
+			],
+			[
+				"prc",
+				"process"
+			],
+			[
+				"jobd",
+				"jobdone"
+			],
+			[
+				"re",
+				"removeme"
+			],
+			[
+				"com",
+				"completed"
+			],
+			[
+				"shell",
+				"shell_pgid"
+			],
+			[
+				"sig",
+				"signal"
+			],
+			[
+				"go",
+				"gojob"
+			],
+			[
+				"remo",
+				"remove_job"
+			],
+			[
+				"this",
+				"thisjob"
+			],
+			[
+				"fir",
+				"first_process"
+			],
+			[
+				"ne",
+				"next"
+			],
+			[
+				"fin",
+				"find_last_job"
+			],
+			[
+				"firs",
+				"first_job"
+			],
+			[
+				"free",
+				"free_job"
+			],
+			[
+				"spawn",
+				"spawn_job"
+			],
+			[
+				"new",
+				"newjob"
+			],
+			[
+				"first_",
+				"first_process"
+			],
+			[
+				"bou",
+				"boundary"
+			],
+			[
+				"metad",
+				"metadata_t"
+			],
+			[
+				"prin",
+				"print_freelist"
+			],
+			[
+				"ret",
+				"return"
+			],
+			[
+				"nex",
+				"nextheader"
+			],
+			[
+				"next",
+				"nextheader"
+			],
+			[
+				"cur",
+				"curptr"
+			],
+			[
+				"head",
+				"header"
+			],
+			[
+				"bound",
+				"bound"
+			],
+			[
+				"T",
+				"BOUNDARY_T_ALIGNED"
+			],
+			[
+				"coa",
+				"coalesce"
+			],
+			[
+				"fot",
+				"footer"
+			],
+			[
+				"meta",
+				"metadata_t"
+			],
+			[
+				"All",
+				"ALLOCATED"
+			],
+			[
+				"retu",
+				"return"
+			],
+			[
+				"size",
+				"size"
+			],
+			[
+				"boun",
+				"boundary_t"
+			],
+			[
+				"move",
+				"movealong"
+			],
+			[
+				"retur",
+				"returnMemory"
+			],
+			[
+				"cheese",
+				"cheese_t"
+			],
+			[
+				"siz",
+				"size"
+			],
+			[
+				"si",
+				"size"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 85.0,
+		"selected_items":
+		[
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"set syntax: html",
+				"Set Syntax: HTML"
+			],
+			[
+				"javasc",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"clang",
+				"Preferences: SublimeClang Settings – Default"
+			],
+			[
+				"sublim",
+				"Preferences: SublimeClang Settings – Default"
+			],
+			[
+				"sublime",
+				"Preferences: SublimeClang Settings – Default"
+			],
+			[
+				"Package Control: remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: inst",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Package Control: Disable Package"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"C",
+				"Set Syntax: C"
+			],
+			[
+				"PERL",
+				"Set Syntax: Perl"
+			],
+			[
+				"pac",
+				"Package Control: Add Repository"
+			],
+			[
+				"c",
+				"Set Syntax: C"
+			]
+		],
+		"width": 522.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/B/Users/Jonno/Documents/GoPinion/site/application/models/inbox_model.php",
+		"/B/Users/Jonno/Documents/GoPinion/site/application/views/business/gopinion.php",
+		"/B/Users/Jonno/Documents/GoPinion/site/application/views/business/customer_feed.php",
+		"/B/Users/Jonno/Documents/GoPinion/site/application/views/business/alerts.php",
+		"/B/Users/Jonno/Documents/GoPinion/site/application/views/business/dashboard.php",
+		"/B/Users/Jonno/Documents/GoPinion/site/application/models/stats_model.php",
+		"/B/Users/Jonno/Documents/GoPinion/site/application/models/business_model.php",
+		"/B/Users/Jonno/Documents/GoPinion/site/application/models/alert_model.php",
+		"/B/Users/Jonno/Documents/GoPinion/site/application/models/demo_model.php",
+		"/B/Users/Jonno/Documents/GoPinion/site/application/models/survey_model.php",
+		"/B/Users/Jonno/Documents/GoPinion/site/application/models/reward_model.php",
+		"/B/Users/Jonno/Documents/GoPinion/site/application/models/user_model.php",
+		"/C/Users/Jonno/AppData/Roaming/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/C/Users/Jonno/AppData/Roaming/Sublime Text 2/Packages/SublimeLinter/SublimeLinter.sublime-settings",
+		"/C/Users/Jonno/AppData/Roaming/Sublime Text 2/Packages/SublimeLinter/README.md",
+		"/C/Users/Jonno/AppData/Roaming/Sublime Text 2/Packages/SublimeCodeIntel/Base File.sublime-settings",
+		"/B/Users/Jonno/Documents/GoPinion/site/application/views/business/stats.php",
+		"/B/Users/Jonno/SkyDrive/Eclipse/100fall11_boggle/src/TrieLexicon.java",
+		"/B/Users/Jonno/SkyDrive/Eclipse/CPS210DFS/src/dblockcache/DBuffer.java",
+		"/B/Users/Jonno/Documents/GoPinion/site/application/views/business/offers.php",
+		"/B/Users/Jonno/SkyDrive/Eclipse/100fall11_boggle/src/BoardFirstAutoPlayer.java",
+		"/C/Users/Jonno/AppData/Roaming/Sublime Text 2/Packages/SublimeCodeIntel/Default (Windows).sublime-keymap",
+		"/C/Users/Jonno/AppData/Roaming/Sublime Text 2/Packages/SublimeCodeIntel/Default (Windows).sublime-mousemap",
+		"/B/Users/Jonno/Documents/GoPinion/site/application/models/api_model.php",
+		"/B/Users/Jonno/Documents/GoPinion/site/index.php",
+		"/C/Users/Jonno/AppData/Roaming/Sublime Text 2/Packages/TortoiseSVN/TortoiseSVN.sublime-settings",
+		"/C/Users/Jonno/AppData/Roaming/Sublime Text 2/Packages/TortoiseSVN/Side Bar.sublime-menu",
+		"/B/Users/Jonno/SkyDrive/Documents/Duke/Fall 2012/Compsci 210/Lab 1b/dsh.h",
+		"/B/Users/Jonno/SkyDrive/Documents/Duke/Fall 2012/Compsci 210/Lab 1b/cps210_lab1b.pdf",
+		"/B/Users/Jonno/SkyDrive/Documents/Duke/Fall 2012/Compsci 210/Lab 1b/dsh.log",
+		"/B/Users/Jonno/SkyDrive/Documents/Duke/Fall 2012/Compsci 210/Lab 1b/hello",
+		"/B/Users/Jonno/SkyDrive/Documents/Duke/Fall 2012/Compsci 210/Lab 1b/inFile",
+		"/B/Users/Jonno/SkyDrive/Documents/Duke/Fall 2012/Compsci 210/Lab 1b/banana",
+		"/B/Users/Jonno/SkyDrive/Documents/Duke/Fall 2012/Compsci 210/Lab 1b/test",
+		"/B/Users/Jonno/SkyDrive/Documents/Duke/Fall 2012/Compsci 210/Lab 1b/testo",
+		"/B/Users/Jonno/SkyDrive/Documents/Duke/Fall 2012/Compsci 210/Lab 1b/dsh.c",
+		"/B/Users/Jonno/SkyDrive/Documents/Duke/Fall 2012/Compsci 210/Lab 1b/be",
+		"/B/Users/Jonno/SkyDrive/Documents/Duke/Fall 2012/Compsci 210/Lab 1b/lo",
+		"/B/Users/Jonno/SkyDrive/Documents/Duke/Fall 2012/Compsci 210/Lab 1b/tree",
+		"/B/Users/Jonno/SkyDrive/Documents/Duke/Fall 2012/Compsci 210/Lab 1b/sort",
+		"/B/Users/Jonno/SkyDrive/Documents/Duke/Fall 2012/Compsci 210/Lab 1b/dsh - Copy.c",
+		"/C/Users/Jonno/AppData/Roaming/Sublime Text 2/Packages/SublimeClang/SublimeClang.sublime-settings",
+		"/B/cygwin/usr/include/cygwin/wait.h",
+		"/B/cygwin/usr/include/sys/wait.h",
+		"/C/Users/Jonno/AppData/Local/sabnzbd/sabnzbd.ini",
+		"/B/cygwin/Cygwin.bat",
+		"/B/Program Files (x86)/Sickbeard/config.ini",
+		"/B/Users/Jonno/SkyDrive/Eclipse/100fall11_dna/README",
+		"/B/Users/Jonno/SkyDrive/Eclipse/100fall11_markov/src/WordNgram.java",
+		"/B/Users/Jonno/SkyDrive/Eclipse/APT 5/src/SpreadingNews.java",
+		"/B/Users/Jonno/SkyDrive/Eclipse/100fall11_markov/src/WordMarkovModel.java",
+		"/B/Users/Jonno/SkyDrive/Documents/Duke/Fall 2012/Compsci 210/Lab 1b/dsh.exe",
+		"/B/Users/Jonno/SkyDrive/Documents/Duke/Fall 2012/Compsci 210/Lab 1b/dsh-example",
+		"/B/Users/Jonno/SkyDrive/Eclipse/100fall11_markov/README",
+		"/B/xampp/htdocs/gottado/dev/.gitignore",
+		"/B/Users/Jonno/SkyDrive/Documents/Duke/Fall 2012/Compsci 210/Lab 1b/Makefile",
+		"/B/Users/Jonno/SkyDrive/Eclipse/100fall11_markov/src/MapMarkovModel.java",
+		"/B/Users/Jonno/SkyDrive/Documents/Duke/Fall 2012/Compsci 210/Lab 1b/#Makefile#",
+		"/B/Users/Jonno/SkyDrive/Documents/Duke/Fall 2012/Compsci 210/Lab 1/Work/cps210_mm.h",
+		"/B/Users/Jonno/SkyDrive/Documents/Duke/Fall 2012/Compsci 210/Lab 1/Work/test_basic.c",
+		"/B/Users/Jonno/SkyDrive/Documents/Duke/Fall 2012/Compsci 210/Lab 1/Work/cps210_mm.c",
+		"/B/Users/Jonno/SkyDrive/Documents/Duke/Fall 2012/Compsci 210/Lab 1a/Work/cps210_mm.c",
+		"/B/Users/Jonno/SkyDrive/Documents/Duke/Fall 2012/Compsci 210/Lab 1/Work/README",
+		"/B/Users/Jonno/SkyDrive/Documents/Duke/Fall 2012/Compsci 210/Lab 1/Work/test_stress1.c",
+		"/B/Users/Jonno/SkyDrive/Documents/Duke/Fall 2012/Compsci 210/Lab 1/Work/test_coalesce.c",
+		"/B/Users/Jonno/SkyDrive/Documents/Duke/Fall 2012/Compsci 210/Lab 1/Work/test_stress2.c",
+		"/B/Users/Jonno/SkyDrive/Documents/Duke/Fall 2012/Compsci 210/Lab 1/Work/Makefile",
+		"/B/Users/Jonno/Dropbox/Duke/Spring 2012/Compsci 104/Assignments/hwk5/my-cache.c",
+		"/B/Users/Jonno/SkyDrive/Documents/Duke/Fall 2012/Compsci 210/Lab 1/Work/test_stdc.c",
+		"/B/Users/Jonno/SkyDrive/Eclipse/100fall11_boggle/README",
+		"/B/Users/Jonno/SkyDrive/Eclipse/APT 4/src/TheBestName.java",
+		"/B/Users/Jonno/SkyDrive/Eclipse/APT 3/src/SortByFreqs.java",
+		"/B/Users/Jonno/SkyDrive/Eclipse/100fall11_markov/src/MarkovModel.java",
+		"/B/Program Files (x86)/Sickbeard/autoProcessTV/autoProcessTV.cfg",
+		"/B/Users/Jonno/SkyDrive/Eclipse/Jotto/Readme",
+		"/B/Users/Jonno/SkyDrive/Eclipse/Jotto/src/JottoModel.java",
+		"/B/cygwin/home/Jonno/.inputrc",
+		"/B/cygwin/.inputrc",
+		"/C/Users/Jonno/AppData/Roaming/Sublime Text 2/Packages/User/SublimeClang.sublime-settings",
+		"/B/Users/Jonno/SkyDrive/Eclipse/100fall11_jotto/src/JottoModel.java",
+		"/B/Users/Jonno/SkyDrive/Eclipse/100fall11_jotto/src/Jotto.java",
+		"/B/Users/Jonno/SkyDrive/Eclipse/APT 3/src/IsomorphicWords.java",
+		"/B/Users/Jonno/SkyDrive/Eclipse/APT 2/src/Anonymous.java",
+		"/B/Users/Jonno/SkyDrive/Eclipse/100fall11_dna/src/DnaGen.java",
+		"/B/Users/Jonno/SkyDrive/Eclipse/100fall11_dna/src/LinkStrand.java",
+		"/B/Users/Jonno/SkyDrive/Eclipse/100fall11_dna/src/SimpleStrand.java",
+		"/B/Users/Jonno/Dropbox/Duke/Spring 2012/Compsci 104/Assignments/hwk5/cache-sim.c",
+		"/B/Users/Jonno/Dropbox/Duke/Spring 2012/Compsci 104/Assignments/hwk4/pipeline.c",
+		"/B/Users/Jonno/Dropbox/Duke/Spring 2012/Compsci 104/Assignments/hwk3/logic_utils.c",
+		"/B/Users/Jonno/Dropbox/Duke/Spring 2012/Compsci 104/Assignments/hwk3/log_simp.c",
+		"/B/Users/Jonno/Dropbox/Duke/Spring 2012/Compsci 104/Assignments/hw1/swap.c",
+		"/B/Users/Jonno/Dropbox/Duke/Spring 2012/Compsci 104/Assignments/hw1/ll.c",
+		"/B/Users/Jonno/SkyDrive/Documents/Duke/Fall 2012/Compsci 210/Lab 1/Work/Makefile.txt",
+		"/B/Users/Jonno/Documents/Eclipse/100fall11_markov/src/WordMarkovModel.java",
+		"/C/Users/Jonno/AppData/Roaming/Sublime Text 2/Packages/Default/Default (Windows).sublime-keymap"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"\" ",
+			"->mode",
+			"var_dump",
+			"print",
+			"echo",
+			"subject",
+			"escape",
+			"var",
+			"}",
+			"var_dum",
+			"update_aler",
+			"= ",
+			"this.",
+			"this",
+			"this.",
+			":",
+			"dup2",
+			"STDERR",
+			"close(log",
+			"fprintf",
+			"haha",
+			"spawn_jo",
+			"spaw_job",
+			"printproce",
+			"===============",
+			"====",
+			"printpro",
+			"wait",
+			"printf",
+			"pgid of",
+			"dup",
+			"fprintf",
+			"prompt",
+			"printprocesspgid",
+			"-1",
+			"mystd",
+			"inf",
+			">pgid",
+			"<",
+			"\\0",
+			"setprocessstatus",
+			"-1",
+			"->pgid",
+			"environ",
+			"setpgid",
+			"pgid",
+			"getjobnum",
+			"getjob",
+			"jobnums",
+			"runinbackground",
+			"getnextpgid",
+			"runinforeground",
+			"updatejobstatus",
+			"pgid",
+			"exit",
+			"jobid",
+			"b:\\use",
+			"getnextp",
+			"getnextpg",
+			"getnextp",
+			"getp",
+			"pgid",
+			"getnextpgid",
+			"stopped",
+			"readcmd",
+			"promptmsg",
+			"jobdone",
+			"pgid",
+			"wif",
+			"shell_pgid",
+			"pid",
+			"getpid",
+			"pgid",
+			"termios",
+			"jobs",
+			"pid_t",
+			"tmodes",
+			"built",
+			"built-in",
+			"built-in\n",
+			"pgid",
+			"		\n",
+			"spawn",
+			"printf",
+			"free",
+			"printf",
+			"				(\"--",
+			"print",
+			"936",
+			"prev",
+			"936",
+			"free",
+			"cps210_free",
+			"free",
+			"cps210_malloc",
+			"945",
+			"930",
+			"footer",
+			"SIZE_T_ALIGNED",
+			"incl",
+			"METADATA_T_ALIGNED",
+			"headersize",
+			"freelist"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"\",",
+			"this.set(\"",
+			"="
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.clang":
+	{
+		"height": 100.0
+	},
+	"output.clang_static_analyzer":
+	{
+		"height": 0.0
+	},
+	"output.exec":
+	{
+		"height": 25.0
+	},
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 202.0,
+	"status_bar_visible": true
+}
